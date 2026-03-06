@@ -96,12 +96,3 @@ Open the notebook and run all cells.
 
 ---
 
-## 📌 Future Improvements
-
-* Build a **customer segmentation dashboard**
-* Deploy as a **web application**
-* Add **interactive visualizations**
-
----
-
-⭐ If you found this project useful, feel free to **star the repository**!
